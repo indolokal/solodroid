@@ -1,0 +1,2 @@
+# solodroid
+Android Solodroid
